@@ -7,7 +7,7 @@ checks:
   similar-code:
     enabled: true
     config:
-      threshold: 320
+      threshold: 300
 exclude_patterns:
 - "ent/"
 - "pkg/secrets/ent/"
