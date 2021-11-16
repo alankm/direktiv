@@ -10,7 +10,7 @@
 </p>
 <hr/>
 
-[![Build](https://github.com/alankm/direktiv/actions/workflows/build.yml/badge.svg)](https://github.com/alankm/direktiv/actions/workflows/build.yml) <a href="https://codeclimate.com/github/alankm/direktiv/maintainability"><img src="https://api.codeclimate.com/v1/badges/39969b6bb893928434ae/maintainability" /></a> [![Go Report Card](https://goreportcard.com/badge/github.com/alankm/direktiv)](https://goreportcard.com/report/github.com/alankm/direktiv) [![Discord](https://img.shields.io/badge/chat-on%20discord-6A7EC2)](https://discord.gg/VjF6wn4)
+[![Build](https://github.com/alankm/direktiv/actions/workflows/build.yml/badge.svg)](https://github.com/alankm/direktiv/actions/workflows/build.yml) <a href="https://codeclimate.com/github/alankm/direktiv/maintainability"><img src="https://api.codeclimate.com/v1/badges/fe1d18ce90ee83abdd6e/maintainability" /></a><img src="https://api.codeclimate.com/v1/badges/39969b6bb893928434ae/maintainability" /></a> [![Go Report Card](https://goreportcard.com/badge/github.com/alankm/direktiv)](https://goreportcard.com/report/github.com/alankm/direktiv) [![Discord](https://img.shields.io/badge/chat-on%20discord-6A7EC2)](https://discord.gg/VjF6wn4)
 
 
 # What is direktiv?
